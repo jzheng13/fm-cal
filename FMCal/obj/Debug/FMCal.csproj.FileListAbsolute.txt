@@ -1,0 +1,16 @@
+C:\Users\UX305\Documents\GitHub\fm_cal\FMCal\bin\Debug\FMCal.exe.config
+C:\Users\UX305\Documents\GitHub\fm-cal\FMCal\bin\Debug\FMCal.exe.config
+C:\Users\UX305\Documents\GitHub\fm-cal\FMCal\bin\Debug\FMCal.exe
+C:\Users\UX305\Documents\GitHub\fm-cal\FMCal\bin\Debug\FMCal.pdb
+C:\Users\UX305\Documents\GitHub\fm-cal\FMCal\obj\Debug\MainWindow.g.cs
+C:\Users\UX305\Documents\GitHub\fm-cal\FMCal\obj\Debug\App.g.cs
+C:\Users\UX305\Documents\GitHub\fm-cal\FMCal\obj\Debug\FMCal_MarkupCompile.cache
+C:\Users\UX305\Documents\GitHub\fm-cal\FMCal\obj\Debug\FMCal_MarkupCompile.lref
+C:\Users\UX305\Documents\GitHub\fm-cal\FMCal\obj\Debug\MainWindow.baml
+C:\Users\UX305\Documents\GitHub\fm-cal\FMCal\obj\Debug\FMCal.g.resources
+C:\Users\UX305\Documents\GitHub\fm-cal\FMCal\obj\Debug\FMCal.Properties.Resources.resources
+C:\Users\UX305\Documents\GitHub\fm-cal\FMCal\obj\Debug\FMCal.csproj.GenerateResource.Cache
+C:\Users\UX305\Documents\GitHub\fm-cal\FMCal\obj\Debug\FMCal.csproj.CoreCompileInputs.cache
+C:\Users\UX305\Documents\GitHub\fm-cal\FMCal\obj\Debug\FMCal.exe
+C:\Users\UX305\Documents\GitHub\fm-cal\FMCal\obj\Debug\FMCal.pdb
+C:\Users\UX305\Documents\GitHub\fm-cal\FMCal\obj\Debug\FMCal.csprojResolveAssemblyReference.cache
