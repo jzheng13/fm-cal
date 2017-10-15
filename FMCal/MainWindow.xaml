@@ -8,9 +8,9 @@
         Title="FMCal" Height="480" Width="720">
     <Grid Name="form">
         <Grid HorizontalAlignment="Left" Height="452" VerticalAlignment="Top" Width="715"/>
-        <Border Background="#2f5cb6"/>
-        <Border Grid.Row="0" Grid.ColumnSpan="3" Background="#dbd9db"></Border>
-        <Border Grid.Row="1" Grid.ColumnSpan="3" Background="#ffffff"></Border>
+        <Border Grid.Row="0" Grid.ColumnSpan="3" Background="#dbd9db"/>
+        <Border Grid.Row="1" Grid.ColumnSpan="3" Background="#ffffff"/>
+        <Label Grid.Column="0" Content="Coaching Stats" FontSize="16" Margin="10"/>
         <Label Grid.Column="0" Content="Attacking" HorizontalAlignment="Left" Margin="10,48,0,0" VerticalAlignment="Top"/>
         <TextBox Grid.Column="0" Name="att" HorizontalAlignment="Left" Height="22" Margin="180,48,10,0" Text="0" VerticalAlignment="Top" Width="30" MaxLength="2"/>
         <Label Grid.Column="0" Content="Defending" HorizontalAlignment="Left" Margin="10,78,0,0" VerticalAlignment="Top"/>
@@ -54,18 +54,12 @@
         <Label Grid.Column="2" Grid.Row="1" Content="Shooting" HorizontalAlignment="Left" Margin="10,48,0,0" VerticalAlignment="Top"/>
         <Label Grid.Column="2" Grid.Row="1" Content="Shot Stopping" HorizontalAlignment="Left" Margin="10,78,0,0" VerticalAlignment="Top"/>
         <Label Grid.Column="2" Grid.Row="1" Content="Handling" HorizontalAlignment="Left" Margin="10,108,0,0" VerticalAlignment="Top"/>
-        <Grid Grid.Row="0" Grid.ColumnSpan="3">
-            <Label Content="Coaching Stats" FontSize="16" Margin="10"/>
-            <Button Content="Calculate" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Width="75" Margin="605, 218, 10, 0" Background="#8c0000" Foreground="#ffd700" BorderBrush="#8c0000" Click="Button_Click"/>
-        </Grid>
-        <Grid Grid.Row="1" Grid.ColumnSpan="3">
-            <Label Content="Coaching Stars" FontSize="16" Margin="10"/>
-        </Grid>
+        <Button Grid.Row="0" Grid.ColumnSpan="3" Content="Calculate" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Width="75" Margin="605, 218, 10, 0" Background="#8c0000" Foreground="#ffd700" BorderBrush="#8c0000" Click="Button_Click"/>
+        <Label Grid.Row="1" Content="Coaching Stars" FontSize="16" Margin="10"/>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
-
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="3*"/>

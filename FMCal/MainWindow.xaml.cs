@@ -27,6 +27,7 @@ namespace FMCal
         
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+
             Dictionary<String, int> stats = new Dictionary<string, int>();
             foreach (TextBox tb in form.Children.OfType<TextBox>())
             {
@@ -38,6 +39,8 @@ namespace FMCal
             {
                 System.Diagnostics.Debug.WriteLine(k);
             }
+
+            Dictionary<String, int> stars = Calculator.calculate(stats);
             
         }
 
